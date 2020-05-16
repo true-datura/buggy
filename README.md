@@ -1,6 +1,6 @@
 # Buggy
 
-**Warning: this project is deprecated and was written long time ago in learning purposes. Don't consider everything from it as a good practice.** 
+**Warning: this project is deprecated and has been written a long time ago in learning purposes. Don't consider everything from it as a good practice.** 
 
 Another lightweight flask-based blog engine.
 
